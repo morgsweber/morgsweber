@@ -4,5 +4,5 @@ At the moment, I'm a Computer Science student at PUCRS and I'm a Software Engine
 
 You can call me on: 
 * [LinkedIn](doc:https://www.linkedin.com/in/morgana-weber-280295142/)
-* [Instagram](doc:www.instagram.com/_morgsweber/)
+* [Instagram](www.instagram.com/_morgsweber/)
 
