@@ -8,7 +8,7 @@ Hey guys :sun_with_face:
 
 I usually work with:
 
-:hammer: Java :hammer: C#  :hammer: .NET :hammer: React :hammer: Javascript
+:hammer: Java :hammer: Python :hammer: C#  :hammer: .NET :hammer: React :hammer: Javascript
 
 You can call me on: 
 
